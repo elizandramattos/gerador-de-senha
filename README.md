@@ -1,1 +1,1 @@
-# gerador-de-senha
+# gtecnicas
